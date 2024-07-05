@@ -89,14 +89,14 @@ openvk:
             # Please read docs to understand how to turn on automatic checking for new translations
         menu:
             links:
-                - name: "@left_menu_donate"
-                  url: "/donate"
-        about:
-            links:
                 - name: "чаларис"
                   url: "https://lolpablic.t.me/"
-                - name: "Поддержать сайт (альтернатива)"
-                  url: "https://donationalerts.com/r/itsa_ilya"
+        about:
+            links:
+                - name: "Поддержать сайт/Support Site"
+                  url: "https://donationalerts.com/r/itsa_ilya/"
+                - name: "Github"
+                  url: "github.com/itsailya/SunulOVK/"
         adPoster:
             enable: false
             src: "https://example.org/ad_poster.jpeg"
