@@ -1,4 +1,4 @@
-# <img align="right" src="https://github.com/openvk/openvk/raw/master/Web/static/img/logo_shadow.png" alt="openvk" title="openvk" width="15%">SunulOVK
+# <img align="right" src="https://i.ibb.co/FDL9CJq/D4-B8-AEB5-C63-B-4-D75-8-F55-6-FDA5299-E060.png" alt="sunulovk" title="sunulovk" width="15%">SunulOVK
 
 _[Русский](README_RU.md)_
 
