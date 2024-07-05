@@ -1,8 +1,8 @@
 openvk:
     debug: true
     appearance:
-        name: "OpenVK"
-        motd: "Yet another OpenVK instance"
+        name: "SunulOVK"
+        motd: "OpenVK instance for discussing many stupid things."
     
     preferences:
         femaleGenderPriority: true
@@ -93,8 +93,10 @@ openvk:
                   url: "/donate"
         about:
             links:
-                - name: "Link caption"
-                  url: "https://example.org/"
+                - name: "чаларис"
+                  url: "https://lolpablic.t.me/"
+                - name: "Поддержать сайт (альтернатива)"
+                  url: "https://donationalerts.com/r/itsa_ilya"
         adPoster:
             enable: false
             src: "https://example.org/ad_poster.jpeg"
