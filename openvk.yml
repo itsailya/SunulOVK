@@ -2,7 +2,7 @@ openvk:
     debug: true
     appearance:
         name: "SunulOVK"
-        motd: "OpenVK instance for discussing many stupid things."
+        motd: "а могут ли червячки слезарио заползти в очко?"
     
     preferences:
         femaleGenderPriority: true
